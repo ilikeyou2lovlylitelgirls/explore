@@ -1,14 +1,14 @@
 ---
-items:
+posten:
  - docker/dockercraft
- - minefold/hubot-minecraft
- - leereilly/hubot-minecraft-skin
- - overviewer/Minecraft-Overviewer
- - cuberite/cuberite
+ - minefold/hubot-mijncraft
+ - leereilly/hubot-minecraft-huid
+ -    Overzichter/mijncraft-overviewer  
+ - cuberiet/cuberiet
  - pmmp/PocketMine-MP
  - msmhq/msm
- - essentials/Essentials
- - VazkiiMods/Botania
+ - Essentiële/essentie
+ -    VazkiiMods/Botanië  
  - MightyPirates/OpenComputers
  - PrismarineJS/mineflayer
  - EngineHub/WorldEdit
@@ -18,17 +18,17 @@ items:
  - ddevault/TrueCraft
  - MachineMuse/MachineMusePowersuits
  - micdoodle8/Galacticraft
- - Bukkit/Bukkit
+ - Bukkit/bukkit
  - GlowstoneMC/Glowstone
- - MovingBlocks/Terasology
+ -  Verplaatsing blocks/terasologie
  - Zerite/CraftLib
- - PaperMC/Paper
- - CaffeineMC/sodium-fabric
- - FabricMC/fabric
+ - Papier MC/Paper
+ - KofeïneMC/natriumstof
+ - FabricMC/stof
  - lambda-client/lambda/
- - nerdsinspace/nocom-explanation
-display_name: Hacking Minecraft
-created_by: leereilly
-image: hacking-minecraft.png
+ - nerdsinspace/nocom-verklaring
+Display_naam: hacking mijncraft
+aangemaakt door: leereilly
+afbeelding: hacking-minecraft.png
 ---
-Minecraft is a game about building blocks, but it doesn’t end there. Take Minecraft further with some of the projects below, or dive into the code mines and hammer your own!
+Minecraft is een spel over bouwstenen, maar het eindigt daar niet. Neem Minecraft verder met een aantal van de hieronder projecten, of duik in de codemijnen en hamer je eigen!
